@@ -1,2 +1,2 @@
 # react-blogger
-react-router, react-redux, index action, nested routes, react forms
+react-router, react-redux, action creators, app state, nested routes, react forms
